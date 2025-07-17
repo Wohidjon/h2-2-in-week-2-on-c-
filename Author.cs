@@ -4,7 +4,7 @@ public class Author
     private int age;
     private string nationality;
 
-    // Конструкторы
+    
     public Author()
     {
         name = "Unknown";
@@ -26,7 +26,7 @@ public class Author
         nationality = nat;
     }
 
-    // Методы
+    
     public string GetName()
     {
         return name;

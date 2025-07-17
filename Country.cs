@@ -45,7 +45,6 @@ public class Country
         return officialLanguage;
     }
 
-    // Дополнительный метод для вывода (не требовался, но пусть будет)
     public void PrintInfo()
     {
         Console.WriteLine($"Country Name: {name}");
